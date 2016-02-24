@@ -3,8 +3,8 @@
 
 ###[ESP]
 El método de uso es bastante intuitivo. Las palabras se muestran en una ScrolledWindow, podemos filtrar palabras a través del widget de Entry, eligiendo explícitamente en qué idioma estamos buscando la palabra en cuestión; y después tenemos botones para agregado y modificado de entradas. En cuanto al botón "eliminar", trabaja directamente con la fila seleccionada en la ScrolledWindow, a diferencia de los botones "agregar" y "modificar" que abren ventanas nuevas.
-El método de modificación se lleva a cabo eligiendo primero el idioma de la palabra que queremos modificar, en función del cual se modifica el menú desplgable; se selecciona la palabra y se escribe la modificación en el entry inmediatamente inferior al menú.
-En cuanto al conjugador de verbos, como con el botón "borrar", trabaja directamente seleccionando una fila de la ScrolledWindow. Se selecciona una y el programa devolverá inmediatamente las conjugaciones del verbo en todos los tiempos gramaticales.
+<p>El método de modificación se lleva a cabo eligiendo primero el idioma de la palabra que queremos modificar, en función del cual se modifica el menú desplgable; se selecciona la palabra y se escribe la modificación en el entry inmediatamente inferior al menú.
+<p>En cuanto al conjugador de verbos, como con el botón "borrar", trabaja directamente seleccionando una fila de la ScrolledWindow. Se selecciona una y el programa devolverá inmediatamente las conjugaciones del verbo en todos los tiempos gramaticales.
 
 La idea de este programa nació como necesidad de poder agregar palabras de un idioma ficticio (conlang, en inglés) a un diccionario a medida que se me fueran ocurriendo sin tener que crear un documento de texto donde guardarlas y después tener que buscarlas manualmente -como hice en un principio-.
 
